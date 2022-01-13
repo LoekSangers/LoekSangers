@@ -17,8 +17,9 @@ My interest in the Computer Science domain are relatively broad, but a short lis
 - Game Development:
   - During my bachelor program at Utrecht University I followed the Game Technologies track, which basically means all my projects were about making games :D
   - [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5): Starting up a project with a friend to develop a game in UE5
-- Game AI:
+- Game AI/Coding challenges:
   - [Codingame](https://www.codingame.com/home): Currently using this with students to explore AI topics
+  - [Advent of Code](https://adventofcode.com/)
 - Robotics:
   - This is an interest of mine, but I do not know a lot about it yet :)
   - I do get to explore this interest by facilitating the Computer Engineering Guild where I learn as much from the students as I can teach them
